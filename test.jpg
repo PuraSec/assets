@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>MIME confusion test</title></head>
+<body>
+<h1>MIME confusion test file</h1>
+<script>alert(document.domain)</script>
+</body>
+</html>
